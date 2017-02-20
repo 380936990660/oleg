@@ -11,7 +11,7 @@ public class Main {
 		String [] names = {"oleg","iyla","danilo","petro"};
 		
 		
-	 
+	 System.out.println("master");
 		
 		
 		
